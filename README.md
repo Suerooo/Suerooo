@@ -1,3 +1,8 @@
+<!-- Banner / Cover -->
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1518779578993-ec3579fee39f?q=80&w=1600&auto=format&fit=crop" alt="Coding banner" width="100%" />
+</p>
+
 <h1 align="center">¡Hola! Soy Raul Suero</h1>
 <p align="center">
   Estudiante de DAW · En aprendizaje continuo
@@ -9,30 +14,22 @@
 
 ## 📚 Actualmente
 - Estudio: DAW (Desarrollo de Aplicaciones Web)
-- Objetivo: afianzar fundamentos con ejercicios y mini-proyectos
+- Objetivo: afianzar fundamentos con ejercicios y mini‑proyectos
 
 ## 🗣️ Lenguajes (aprendiendo)
 <p align="left">
   <!-- Java -->
-  <a href="#">
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
-  </a>
+  <img alt="Java" src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=F89820">
   <!-- Python -->
-  <a href="#">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
-  </a>
-  <!-- HTML -->
-  <a href="#">
-    <img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>
+  <img alt="Python" src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB">
+  <!-- HTML5 -->
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26">
 </p>
 
 ## 🛠️ IDEs
 <p align="left">
   <!-- VS Code -->
-  <a href="#">
-    <img alt="Visual Studio Code" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white">
-  </a>
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-000?style=for-the-badge&logo=visualstudiocode&logoColor=22A6F2">
 </p>
 
 ## 🧭 Lo que busco
