@@ -24,7 +24,7 @@
 ## 🛠️ IDEs
 <p align="left">
   <!-- VS Code -->
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-000?style=for-the-badge&logo=visualstudiocode&logoColor=22A6F2">
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-000?style=for-the-badge&logo=visualstudiocode&logoColor=22A6F2](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)">
 </p>
 
 ## 🧭 Lo que busco
