@@ -1,8 +1,3 @@
-<!-- Banner / Cover -->
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1518779578993-ec3579fee39f?q=80&w=1600&auto=format&fit=crop" alt="Coding banner" width="100%" />
-</p>
-
 <h1 align="center">¡Hola! Soy Raul Suero</h1>
 <p align="center">
   Estudiante de DAW · En aprendizaje continuo
@@ -12,30 +7,25 @@
   <em>Aprendiendo fundamentos sólidos de programación y buenas prácticas mientras construyo proyectos pequeños.</em>
 </p>
 
-## 🧰 Tech stack (aprendiendo)
-- Lenguajes en aprendizaje: Java, Python, HTML
-- Intereses actuales: fundamentos de programación, estructuras de datos básicas, control de versiones
-
-<details>
-  <summary>🔎 Detalles técnicos (click para ver)</summary>
-
-- POO: encapsulación, herencia y polimorfismo
-- Buenas prácticas: modularidad, manejo de errores, lectura de logs
-- Algoritmos y EDD: listas, pilas, colas, mapas; nociones de complejidad
-- Testing: principios de pruebas unitarias
-- Git: ramas, commits atómicos, PRs
-</details>
-
-## 🛠️ IDEs y herramientas
-- IDE principal: Visual Studio Code
-- Extensiones recomendadas:
-  - Prettier / ESLint basics
-  - GitLens
-  - Code Spell Checker
-
 ## 📚 Actualmente
 - Estudio: DAW (Desarrollo de Aplicaciones Web)
 - Objetivo: afianzar fundamentos con ejercicios y mini‑proyectos
+
+## 🗣️ Lenguajes (aprendiendo)
+<p align="left">
+  <!-- Java -->
+  <img alt="Java" src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=FF0000">
+  <!-- Python -->
+  <img alt="Python" src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB">
+  <!-- HTML5 -->
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26">
+</p>
+
+## 🛠️ IDEs
+<p align="left">
+  <!-- VS Code -->
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-000?style=for-the-badge&logo=visualstudiocode&logoColor=22A6F2">
+</p>
 
 ## 🧭 Lo que busco
 - Oportunidades de aprendizaje, prácticas y colaboración
