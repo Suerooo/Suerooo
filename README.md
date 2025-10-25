@@ -1,8 +1,3 @@
-<!-- Banner / Cover -->
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1518779578993-ec3579fee39f?q=80&w=1600&auto=format&fit=crop" alt="Coding banner" width="100%" />
-</p>
-
 <h1 align="center">¡Hola! Soy Raul Suero</h1>
 <p align="center">
   Estudiante de DAW · En aprendizaje continuo
