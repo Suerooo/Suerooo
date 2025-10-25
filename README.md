@@ -14,7 +14,7 @@
 ## 🗣️ Lenguajes (aprendiendo)
 <p align="left">
   <!-- Java -->
-  <img alt="Java" src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=F89820">
+  <img alt="Java" src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=E11F21">
   <!-- Python -->
   <img alt="Python" src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB">
   <!-- HTML5 -->
