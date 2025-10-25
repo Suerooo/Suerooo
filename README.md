@@ -1,50 +1,38 @@
-# ¡Hola! Soy Raul Suero 👋
+# ¡Hola! Soy Raul Suero
 
-Desarrollador en camino, con interés en backend y data. Actualmente estoy construyendo bases sólidas en programación y buenas prácticas, con foco en Java y Python.
+Backend/Data · Estudiante de DAW
 
-- 🎯 Intereses: Backend, APIs, bases de datos, datos y automatización
-- 📚 Aprendiendo: Fundamentos de programación, Java, Python, Git/GitHub
-- 🗣️ Idioma: Español
-- 🤝 Abierto a: Colaborar en proyectos para principiantes, pair programming y feedback de código
+> Estudiante con foco técnico en backend y datos. Aprendiendo buenas prácticas, estructuras de datos y patrones de diseño mientras construyo proyectos pequeños para afianzar fundamentos.
 
-## Objetivos actuales
-- ✅ Dominar conceptos básicos: variables, tipos, control de flujo, funciones
-- ✅ Entender Git y GitHub (branches, PRs, issues)
-- 🔜 Practicar con mini-proyectos: CLI apps, scripts para datos, pequeñas APIs
-- 🔜 Fundamentos de bases de datos: SQL, diseño de tablas, consultas
+## 🧰 Tech stack
+- Lenguajes: Java, Python, HTML
+- Intereses: Backend, Data
 
-## Rutas de aprendizaje (roadmap personal)
-- Java: sintaxis, OOP, colecciones, streams, testing
-- Python: data types, módulos, virtualenv, manejo de archivos, requests
-- Backend: HTTP, REST, JSON, diseño de endpoints, autenticación básica
-- Data: CSV/JSON, limpieza básica, consultas SQL, visualizaciones simples
-- Herramientas: Git/GitHub, VS Code, Postman, Docker (intro)
+<details>
+  <summary>🔎 Detalles técnicos (click para ver)</summary>
 
-## Ideas de mini‑proyectos (para cuando quieras empezar)
-- 🧮 Conversor de unidades (CLI, Python/Java)
-- 📊 Limpieza de un CSV y generación de estadísticas simples (Python)
-- 🌤️ Pequeña API que consume un servicio público de clima (Python requests o Java + HttpClient)
-- 📝 To‑Do list en consola con persistencia en archivo JSON
-- 🐍 Script que renombra y organiza archivos en carpetas por extensión
+- Paradigmas: POO (encapsulación, herencia, polimorfismo)
+- Buenas prácticas: modularidad, manejo de errores, lectura de logs
+- Algoritmos y EDD: listas, pilas, colas, mapas; complejidad Big‑O básica
+- Testing: principios de pruebas unitarias
+- Control de versiones: ramas, commits atómicos, PRs
+</details>
 
-Cuando tengas alguno, agrégalo aquí:
-- [Nombre del proyecto](URL) — breve descripción, tecnologías
+## 📚 Actualmente
+- Estudio: DAW (Desarrollo de Aplicaciones Web)
+- Objetivo: Fortalecer bases de backend y data con proyectos prácticos
 
-## Recursos que estoy usando
-- Java: Oracle Java Tutorials, “Effective Java” (más adelante)
-- Python: “Automate the Boring Stuff with Python”, docs oficiales
-- Git: “Pro Git” y ejercicios con ramas/PRs
-- Backend: MDN Web Docs (HTTP), “RESTful API design” artículos intro
-- SQL: SQLBolt, w3schools SQL
+## 🧭 Lo que busco
+- Oportunidades de aprendizaje, prácticas y colaboración en proyectos open source o académicos
+- Feedback de código y mentoría técnica
 
-## Cómo colaboro y contacto
-- Me interesa aportar a issues etiquetadas como “good first issue”
-- Si quieres sugerirme retos o recursos, ¡bienvenido!
+## 📬 Contacto
+- Email: raulsuerotrabajo@gmail.com
 
-📫 Contacto: (añade tu email o LinkedIn cuando quieras)
+---
 
-## Estadísticas (se actualizarán contigo)
-![Stats](https://github-readme-stats.vercel.app/api?username=Suerooo&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suerooo&layout=compact&theme=tokyonight)
+## 📊 Métricas de GitHub
 
-<!-- Reemplaza Suerooo por tu usuario real de GitHub -->
+![GitHub Streak](https://streak-stats.demolab.com?user=Suerooo&theme=transparent&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suerooo&show_icons=true&theme=transparent&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suerooo&layout=compact&theme=transparent&hide_border=true)
