@@ -1,30 +1,45 @@
-# ¡Hola! Soy Raul Suero
+<!-- Banner / Cover -->
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1518779578993-ec3579fee39f?q=80&w=1600&auto=format&fit=crop" alt="Coding banner" width="100%" />
+</p>
 
-Backend/Data · Estudiante de DAW
+<h1 align="center">¡Hola! Soy Raul Suero</h1>
+<p align="center">
+  Estudiante de DAW · En aprendizaje continuo
+</p>
 
-> Estudiante con foco técnico en backend y datos. Aprendiendo buenas prácticas, estructuras de datos y patrones de diseño mientras construyo proyectos pequeños para afianzar fundamentos.
+<p align="center">
+  <em>Aprendiendo fundamentos sólidos de programación y buenas prácticas mientras construyo proyectos pequeños.</em>
+</p>
 
-## 🧰 Tech stack
-- Lenguajes: Java, Python, HTML
-- Intereses: Backend, Data
+## 🧰 Tech stack (aprendiendo)
+- Lenguajes en aprendizaje: Java, Python, HTML
+- Intereses actuales: fundamentos de programación, estructuras de datos básicas, control de versiones
 
 <details>
   <summary>🔎 Detalles técnicos (click para ver)</summary>
 
-- Paradigmas: POO (encapsulación, herencia, polimorfismo)
+- POO: encapsulación, herencia y polimorfismo
 - Buenas prácticas: modularidad, manejo de errores, lectura de logs
-- Algoritmos y EDD: listas, pilas, colas, mapas; complejidad Big‑O básica
+- Algoritmos y EDD: listas, pilas, colas, mapas; nociones de complejidad
 - Testing: principios de pruebas unitarias
-- Control de versiones: ramas, commits atómicos, PRs
+- Git: ramas, commits atómicos, PRs
 </details>
+
+## 🛠️ IDEs y herramientas
+- IDE principal: Visual Studio Code
+- Extensiones recomendadas:
+  - Prettier / ESLint basics
+  - GitLens
+  - Code Spell Checker
 
 ## 📚 Actualmente
 - Estudio: DAW (Desarrollo de Aplicaciones Web)
-- Objetivo: Fortalecer bases de backend y data con proyectos prácticos
+- Objetivo: afianzar fundamentos con ejercicios y mini‑proyectos
 
 ## 🧭 Lo que busco
-- Oportunidades de aprendizaje, prácticas y colaboración en proyectos open source o académicos
-- Feedback de código y mentoría técnica
+- Oportunidades de aprendizaje, prácticas y colaboración
+- Feedback de código
 
 ## 📬 Contacto
 - Email: raulsuerotrabajo@gmail.com
