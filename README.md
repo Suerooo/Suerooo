@@ -7,7 +7,7 @@
 ## 📚 Actualmente
 - Estudio: DAW (Desarrollo de Aplicaciones Web)
 
-## 🗣️ Lenguajes
+## 🗣️ Lenguajes (aprendiendo)
 <p align="left">
   <!-- Java -->
   <img alt="Java" src="https://img.shields.io/badge/Java-6d8fc1?style=flat-square&logo=openjdk&logoColor=white">
@@ -38,7 +38,7 @@
 ## 🛠️ IDEs
 <p align="left">
   <!-- VS Code -->
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-6d8fc1?style=flat-square&logo=visualstudiocode&logoColor=white">
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS_Code-6d8fc1?style=flat-square&logo=visual-studio-code&logoColor=white">
 </p>
 
 ## 🧭 Lo que busco
