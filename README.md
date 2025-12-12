@@ -17,8 +17,22 @@
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-6d8fc1?style=flat-square&logo=html5&logoColor=white">
   <!-- CSS3 -->
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-6d8fc1?style=flat-square&logo=css3&logoColor=white">
+</p>
+
+## 🗄️ Bases de datos
+<p align="left">
   <!-- MySQL -->
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-6d8fc1?style=flat-square&logo=mysql&logoColor=white">
+</p>
+
+## 🔧 Herramientas y Control de Versiones
+<p align="left">
+  <!-- Git -->
+  <img alt="Git" src="https://img.shields.io/badge/Git-6d8fc1?style=flat-square&logo=git&logoColor=white">
+  <!-- GitHub -->
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-6d8fc1?style=flat-square&logo=github&logoColor=white">
+  <!-- VirtualBox -->
+  <img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-6d8fc1?style=flat-square&logo=virtualbox&logoColor=white">
 </p>
 
 ## 🛠️ IDEs
@@ -31,8 +45,16 @@
 - Oportunidades de aprendizaje, prácticas y colaboración
 - Feedback de código
 
+
+<div align="center">
+
 ## 📬 Contacto
-- Email: raulsuerotrabajo@gmail.com
+
+  <a href="mailto:raulsuero@proton.me">
+    <img src="https://img.shields.io/badge/Contact-raulsuero@proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" />
+  </a>
+
+</div>
 
 ---
 
