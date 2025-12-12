@@ -1,30 +1,30 @@
 <h1 align="center">¡Hola! Soy Raul Suero</h1>
 <p align="center">
-  Estudiante de DAW · En aprendizaje continuo
+  Estudiante de DAW
 </p>
 
-<p align="center">
-  <em>Aprendiendo fundamentos sólidos de programación y buenas prácticas mientras construyo proyectos pequeños.</em>
-</p>
 
 ## 📚 Actualmente
 - Estudio: DAW (Desarrollo de Aplicaciones Web)
-- Objetivo: afianzar fundamentos con ejercicios y mini‑proyectos
 
-## 🗣️ Lenguajes (aprendiendo)
+## 🗣️ Lenguajes
 <p align="left">
   <!-- Java -->
-  <img alt="Java" src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=F89820">
+  <img alt="Java" src="https://img.shields.io/badge/Java-0A1A2F?style=flat-square&logo=openjdk&logoColor=white">
   <!-- Python -->
-  <img alt="Python" src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB">
+  <img alt="Python" src="https://img.shields.io/badge/Python-0A1A2F?style=flat-square&logo=python&logoColor=white">
   <!-- HTML5 -->
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-0A1A2F?style=flat-square&logo=html5&logoColor=white">
+  <!-- CSS3 -->
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-0A1A2F?style=flat-square&logo=css3&logoColor=white">
+  <!-- MySQL -->
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-0A1A2F?style=flat-square&logo=mysql&logoColor=white">
 </p>
 
 ## 🛠️ IDEs
 <p align="left">
   <!-- VS Code -->
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-000?style=for-the-badge&logo=visualstudiocode&logoColor=22A6F2">
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0A1A2F?style=flat-square&logo=visualstudiocode&logoColor=white">
 </p>
 
 ## 🧭 Lo que busco
