@@ -7,7 +7,7 @@
 ## 📚 Actualmente
 - Estudio: DAW (Desarrollo de Aplicaciones Web)
 
-## 🗣️ Lenguajes (aprendiendo)
+## 🗣️ Lenguajes
 <p align="left">
   <!-- Java -->
   <img alt="Java" src="https://img.shields.io/badge/Java-6d8fc1?style=flat-square&logo=openjdk&logoColor=white">
