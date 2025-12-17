@@ -1,65 +1,63 @@
-<h1 align="center">¡Hola! Soy Raul Suero</h1>
-<p align="center">
-  Estudiante de DAW
-</p>
+# ¡Hola! Soy Raúl Suero 👋
 
-
-## 📚 Actualmente
-- Estudio: DAW (Desarrollo de Aplicaciones Web)
-
-## 🗣️ Lenguajes
-<p align="left">
-  <!-- Java -->
-  <img alt="Java" src="https://img.shields.io/badge/Java-6d8fc1?style=flat-square&logo=openjdk&logoColor=white">
-  <!-- Python -->
-  <img alt="Python" src="https://img.shields.io/badge/Python-6d8fc1?style=flat-square&logo=python&logoColor=white">
-  <!-- HTML5 -->
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-6d8fc1?style=flat-square&logo=html5&logoColor=white">
-  <!-- CSS3 -->
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-6d8fc1?style=flat-square&logo=css3&logoColor=white">
-</p>
-
-## 🗄️ Bases de datos
-<p align="left">
-  <!-- MySQL -->
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-6d8fc1?style=flat-square&logo=mysql&logoColor=white">
-</p>
-
-## 🔧 Herramientas y Control de Versiones
-<p align="left">
-  <!-- Git -->
-  <img alt="Git" src="https://img.shields.io/badge/Git-6d8fc1?style=flat-square&logo=git&logoColor=white">
-  <!-- GitHub -->
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-6d8fc1?style=flat-square&logo=github&logoColor=white">
-  <!-- VirtualBox -->
-  <img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-6d8fc1?style=flat-square&logo=virtualbox&logoColor=white">
-</p>
-
-## 🛠️ IDEs
-<p align="left">
-  <!-- VS Code -->
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS_Code-6d8fc1?style=flat-square&logo=visual-studio-code&logoColor=white">
-</p>
-
-## 🧭 Lo que busco
-- Oportunidades de aprendizaje, prácticas y colaboración
-- Feedback de código
-
-
-<div align="center">
-
-## 📬 Contacto
-
-  <a href="mailto:raulsuero@proton.me">
-    <img src="https://img.shields.io/badge/Contact-raulsuero@proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" />
-  </a>
-
-</div>
+**Estudiante de Desarrollo de Aplicaciones Web (DAW)**
 
 ---
 
-## 📊 Métricas de GitHub
+## 🚀 Sobre mí
+
+Actualmente estoy inmerso en el mundo del **Desarrollo de Aplicaciones Web (DAW)**, donde adquiero conocimientos sólidos en programación, bases de datos y tecnologías web. Me apasiona especialmente el **backend** y tengo un gran interés en el **big data** y en cómo procesar y analizar grandes volúmenes de información de forma eficiente.
+
+Mi objetivo es construir soluciones robustas, escalables y bien diseñadas, y estoy siempre abierto a nuevas oportunidades de aprendizaje y colaboración.
+
+---
+
+## 🛠️ Mi Stack Tecnológico
+
+Aquí te presento las herramientas y lenguajes con los que trabajo y aprendo:
+
+### 💻 Lenguajes de Programación
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🗄️ Bases de Datos
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔧 Herramientas y Control de Versiones
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-212B2B?style=for-the-badge&logo=virtualbox&logoColor=white)
+
+### 🖥️ Entornos de Desarrollo (IDEs)
+
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🎯 Lo que busco
+
+- **Oportunidades de aprendizaje:** Siempre dispuesto a expandir mis conocimientos y habilidades.
+- **Prácticas:** Interesado en aplicar mis conocimientos en un entorno profesional.
+- **Colaboración:** Abierto a participar en proyectos y trabajar en equipo.
+- **Feedback de código:** Valoro las críticas constructivas para mejorar mi trabajo.
+
+---
+
+## 📬 Contacto
+
+[![Email](https://img.shields.io/badge/Contact-raulsuero@proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:raulsuero@proton.me)
+
+---
+
+## 📊 Mi actividad en GitHub
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Suerooo&theme=transparent&hide_border=true)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suerooo&show_icons=true&theme=transparent&hide_border=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suerooo&layout=compact&theme=transparent&hide_border=true)
