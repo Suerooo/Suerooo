@@ -6,9 +6,10 @@
 
 ## 🚀 Sobre mí
 
-Actualmente estoy inmerso en el mundo del **Desarrollo de Aplicaciones Web (DAW)**, donde adquiero conocimientos sólidos en programación, bases de datos y tecnologías web. Me apasiona especialmente el **backend** y tengo un gran interés en el **big data** y en cómo procesar y analizar grandes volúmenes de información de forma eficiente.
+Actualmente estoy inmerso en el mundo del **Desarrollo de Aplicaciones Web (DAW)**, donde adquiero conocimientos sólidos en programación, bases de datos y tecnologías web.  
+Me interesa especialmente el **desarrollo backend**, construir lógica de negocio sólida y trabajar con datos de forma eficiente.
 
-Mi objetivo es construir soluciones robustas, escalables y bien diseñadas, y estoy siempre abierto a nuevas oportunidades de aprendizaje y colaboración.
+Mi objetivo es crear soluciones robustas, escalables y bien diseñadas, y estoy siempre abierto a nuevas oportunidades de aprendizaje y colaboración.
 
 ---
 
@@ -41,10 +42,10 @@ Aquí te presento las herramientas y lenguajes con los que trabajo y aprendo:
 
 ## 🎯 Lo que busco
 
-- **Oportunidades de aprendizaje:** Siempre dispuesto a expandir mis conocimientos y habilidades.
-- **Prácticas:** Interesado en aplicar mis conocimientos en un entorno profesional.
-- **Colaboración:** Abierto a participar en proyectos y trabajar en equipo.
-- **Feedback de código:** Valoro las críticas constructivas para mejorar mi trabajo.
+- **Oportunidades de aprendizaje:** seguir mejorando como desarrollador backend.
+- **Prácticas:** aplicar mis conocimientos en un entorno profesional.
+- **Colaboración:** participar en proyectos y trabajar en equipo.
+- **Feedback de código:** valoro las críticas constructivas para mejorar mi trabajo.
 
 ---
 
@@ -55,8 +56,6 @@ Aquí te presento las herramientas y lenguajes con los que trabajo y aprendo:
 ---
 
 ## 📊 Mi actividad en GitHub
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Suerooo&theme=transparent&hide_border=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suerooo&show_icons=true&theme=transparent&hide_border=true)
 
