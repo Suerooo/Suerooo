@@ -1,55 +1,53 @@
 <h1 align="center">Suero</h1>
 
-<p align="center">
-Backend Developer | DAW Student | Big Data & AI
-</p>
+```bash
+$ whoami
+> Backend Developer (in progress)
+
+$ current_status
+> DAW student
+> building TreeCO
+
+$ focus
+> Backend
+> Big Data
+> AI
+```
 
 ---
 
-## 👨‍💻 Sobre mí
+## 🧰 stack
 
-* 📍 España
-* 🎓 Estudiante de Desarrollo de Aplicaciones Web (DAW)
-* 🧠 Enfoque en Backend, Big Data e Inteligencia Artificial
-* 🚀 Actualmente desarrollando TreeCO
-
----
-
-## 🛠️ Tech Stack
-
-**Lenguajes:**
-HTML · CSS · JavaScript · Java
-
-**Backend:**
-Spring Boot · REST APIs
-
-**Base de datos:**
-PostgreSQL · MySQL
-
-**Herramientas:**
-Git · Vercel · Render · VirtualBox
+```bash
+languages: html, css, javascript, java
+backend: spring boot, rest api
+database: postgresql, mysql
+tools: git, vercel, render
+```
 
 ---
 
-## 🚀 Proyecto Principal
+## 🚀 project
 
-### TreeCO
+```bash
+name: TreeCO
+type: Full Stack Task Manager
+status: active
+```
 
-Aplicación full stack para gestión de tareas con arquitectura moderna.
-
-* 🌐 https://treeco.vercel.app
-* 📦 https://github.com/Suerooo/TreeCO
-
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suerooo&show_icons=true&theme=default" />
-</p>
+🌐 https://treeco.vercel.app
+📦 https://github.com/Suerooo/TreeCO
 
 ---
 
-## 📫 Contacto
+## 📊 stats
 
-* 📧 [raulsuerodaw@gmail.com](mailto:raulsuerodaw@gmail.com)
+![stats](https://github-readme-stats.vercel.app/api?username=Suerooo\&show_icons=true\&theme=dark)
+
+---
+
+## 📫 contact
+
+```bash
+email: raulsuerodaw@gmail.com
+```
