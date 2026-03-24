@@ -45,7 +45,7 @@ Aplicación full stack para gestión de tareas con arquitectura moderna.
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suerooo&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suerooo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
 
 ---
