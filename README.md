@@ -1,65 +1,55 @@
 <h1 align="center">Suero</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&lines=Backend+Developer;Big+Data+%2F+AI+Focused;DAW+Student" />
+Backend Developer | DAW Student | Big Data & AI
 </p>
 
 ---
 
-## ⚡ Sobre mí
+## 👨‍💻 Sobre mí
 
-```bash
-> ubicación: 🇪🇸 España
-> formación: DAW
-> enfoque: Backend / Big Data / IA
-> actual: desarrollando TreeCO 🚀
-```
+* 📍 España
+* 🎓 Estudiante de Desarrollo de Aplicaciones Web (DAW)
+* 🧠 Enfoque en Backend, Big Data e Inteligencia Artificial
+* 🚀 Actualmente desarrollando TreeCO
 
 ---
 
-## 🧠 Stack Tecnológico
+## 🛠️ Tech Stack
 
-### Lenguajes
+**Lenguajes:**
+HTML · CSS · JavaScript · Java
 
-![HTML](https://img.shields.io/badge/HTML5-08080f?style=for-the-badge\&logo=html5\&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS3-08080f?style=for-the-badge\&logo=css3\&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-08080f?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-08080f?style=for-the-badge\&logo=openjdk\&logoColor=white)
+**Backend:**
+Spring Boot · REST APIs
 
-### Backend & DB
+**Base de datos:**
+PostgreSQL · MySQL
 
-![Spring](https://img.shields.io/badge/SpringBoot-08080f?style=for-the-badge\&logo=springboot\&logoColor=6DB33F)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-08080f?style=for-the-badge\&logo=postgresql\&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/MySQL-08080f?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### Tools & DevOps
-
-![Git](https://img.shields.io/badge/Git-08080f?style=for-the-badge\&logo=git\&logoColor=F05032)
-![Vercel](https://img.shields.io/badge/Vercel-08080f?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Render](https://img.shields.io/badge/Render-08080f?style=for-the-badge\&logo=render\&logoColor=white)
+**Herramientas:**
+Git · Vercel · Render · VirtualBox
 
 ---
 
-## 🚀 Proyecto Destacado
+## 🚀 Proyecto Principal
 
-### 🌱 TreeCO — Task Management App
+### TreeCO
 
-Gestor de tareas orientado a productividad real con arquitectura Full Stack.
+Aplicación full stack para gestión de tareas con arquitectura moderna.
 
-🔗 Web: https://treeco.vercel.app
-📦 Repo: https://github.com/Suerooo/TreeCO
+* 🌐 https://treeco.vercel.app
+* 📦 https://github.com/Suerooo/TreeCO
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suerooo&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suerooo&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Suerooo&show_icons=true&theme=default" />
 </p>
 
 ---
 
 ## 📫 Contacto
 
-📧 [raulsuerodaw@gmail.com](mailto:raulsuerodaw@gmail.com)
+* 📧 [raulsuerodaw@gmail.com](mailto:raulsuerodaw@gmail.com)
