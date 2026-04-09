@@ -47,7 +47,7 @@
 Gestor de tareas orientado a productividad real con arquitectura Full Stack.
 
 🔗 Web: https://treeco-kappa.vercel.app/
-📦 Repo: https://github.com/Suerooo/TreeCO
+📦 Repo: https://github.com/victorM-raulS/TreeCO
 
 ---
 
