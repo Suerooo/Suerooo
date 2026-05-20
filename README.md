@@ -11,7 +11,6 @@
 ```bash
 > ubicación: 🇪🇸 España
 > formación: DAW
-> enfoque: Backend / Big Data / IA
 > actual: desarrollando TreeCO 🚀
 ```
 
