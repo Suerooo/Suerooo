@@ -1,7 +1,7 @@
 <h1 align="center">Suero</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&lines=Backend+Developer;Big+Data+%2F+AI+Focused;DAW+Student" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&lines=Backend+Developer;DAW+Student" />
 </p>
 
 ---
